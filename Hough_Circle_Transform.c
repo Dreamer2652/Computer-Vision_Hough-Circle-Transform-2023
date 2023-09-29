@@ -2,7 +2,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <string.h>
-#include <time.h>
+#include <time.h>    // Recommend chrono library(C++) instead
 #pragma warning(disable : 4996)
 
 #define NAME "Test_img_CV_HW4_396x400.yuv"
